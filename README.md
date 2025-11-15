@@ -2,8 +2,6 @@
 
 ## About Me
 
-## About Me
-
 20+ years building and scaling technology companies. Started as a developer (Cisco in the early 2000s), evolved through product management, and spent the last decade as a hands-on, technical IC in Solutions Engineering.
 
 Often the first SE hired in Europe, I build new markets from scratch— currently scaling Semgrep's initial EMEA footprint and previously expanding ThousandEyes' business with Europe's top-6 FSI leaders. I act as a trusted advisor to strategic tech and financial services customers, ensuring their success from first deployment to full-scale operation.
