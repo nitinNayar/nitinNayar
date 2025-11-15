@@ -4,9 +4,11 @@
 
 ## About Me
 
-20 years building and scaling technology companies as a hands-on individual contributor. Started as a developer, evolved through product management, and spent the last decade in Solutions Engineering—opening new markets from scratch (EMEA at Semgrep), building strategic verticals (Financial Services at ThousandEyes, working with top-6 UK banks), and serving as trusted advisor to Europe's largest tech and financial services companies.
+20+ years building and scaling technology companies. Started as a developer (Cisco in the early 2000s), evolved through product management, and spent the last decade as a hands-on, technical IC in Solutions Engineering.
 
-Now focused on the most disruptive technology shift of our generation: AI. Building practical applications with LLMs and autonomous agents, bringing the same customer-first, ship-fast mindset that's driven success in previous ventures.
+Often the first SE hired in Europe, I build new markets from scratch— currently scaling Semgrep's initial EMEA footprint and previously expanding ThousandEyes' business with Europe's top-6 FSI leaders. I act as a trusted advisor to strategic tech and financial services customers, ensuring their success from first deployment to full-scale operation.
+
+Now focused on the most disruptive technology shift of our generation: AI. Building practical applications with LLMs and autonomous agents, bringing the same customer-first, ship-fast mindset that's worked in previous ventures.
 
 ## What I'm Currently Building
 
