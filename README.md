@@ -2,29 +2,31 @@
 
 ## About Me
 
-20 years building and scaling technology companies. Started as a developer, evolved through product management, and spent the last decade in Solutions Engineering—often as the first SE hired in Europe, partnering directly with founders to grow the European businesses into multi-million dollar operations.
+## About Me
 
-Now focused on the most disruptive technology shift of our generation: AI. Building practical applications with LLMs and autonomous agents, bringing the same customer-first, ship-fast mindset that's worked in previous ventures.
+20 years building and scaling technology companies as a hands-on individual contributor. Started as a developer, evolved through product management, and spent the last decade in Solutions Engineering—opening new markets from scratch (EMEA at Semgrep), building strategic verticals (Financial Services at ThousandEyes, working with top-6 UK banks), and serving as trusted advisor to Europe's largest tech and financial services companies.
 
-## 🔭 What I'm Currently Building
+Now focused on the most disruptive technology shift of our generation: AI. Building practical applications with LLMs and autonomous agents, bringing the same customer-first, ship-fast mindset that's driven success in previous ventures.
+
+## What I'm Currently Building
 
 **Production AI Tools for Solutions Engineering:**
 
-🎯 **POV Progress Tracker**  
+**POV Progress Tracker**  
 Python application that uses AI to analyze proof-of-value engagements in real-time. Automatically summarizes technical details, tracks open actions and milestones, calculates win probability, and provides tactical guidance for securing technical wins. Includes objection handling frameworks and competitive positioning insights.
 
-⚡ **AI-Enhanced SE Workflows**  
+**AI-Enhanced SE Workflows**  
 Integrating AI into daily operations to scale expertise and increase velocity:
-- **Structured Learning System** - Notion + AI for rapid product/tool mastery
-- **Automated Task Management** - Claude with Linear MCP for intelligent project tracking
-- **Meeting Intelligence** - Zoom recordings + Claude for automatic action item extraction and follow-up generation
+- Structured Learning System - Notion + AI for rapid product/tool mastery
+- Automated Task Management - Claude with Linear MCP for intelligent project tracking
+- Meeting Intelligence - Zoom recordings + Claude for automatic action item extraction
 
-📚 **Prompt Engineering for SEs**  
+**Prompt Engineering for SEs**  
 GitHub repository of battle-tested prompts for Solutions Engineering contexts. Covering discovery analysis, technical documentation, demo scripting, objection handling, and competitive positioning. Moving from personal toolkit → open-source resource → blog series.
 
 _These aren't learning projects—they're production tools I use daily to deliver better customer outcomes._
 
-## 💼 What I Bring
+## What I Bring
 
 **The trifecta that AI companies need:**
 - **Technical depth:** Started as a developer, understand architecture and implementation
@@ -33,7 +35,7 @@ _These aren't learning projects—they're production tools I use daily to delive
 
 **My sweet spot:** Taking cutting-edge technology and translating it into solutions that customers actually buy and use.
 
-## 🛠️ Current Tech Stack
+## Current Tech Stack
 
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,20 +55,16 @@ _These aren't learning projects—they're production tools I use daily to delive
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Productivity & Workflow:**
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
-
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 Connecting with others building in the AI space, particularly around:
-- Enterprise AI adoption patterns
-- Agent architectures and orchestration
-- Bringing LLM capabilities to production
-- Solutions Engineering in AI-native companies
+- Enterprise AI adoption patterns and go-to-market strategies
+- Agent architectures and production deployment
+- Solutions Engineering at AI-native companies
 
-## 📫 Let's Connect
+Open to conversations about building, scaling, and selling AI products—especially across European markets.
+
+## Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/nitinnayar](https://www.linkedin.com/in/nitinnayar/)
 - **Email:** nitin.nayar@gmail.com
@@ -74,10 +72,6 @@ Connecting with others building in the AI space, particularly around:
 
 ---
 
-### 💡 My Philosophy
-
-_"The best technology is invisible—it just works. My job is making AI feel inevitable, not intimidating."_
-
-**Status:** 🚀 Building in public. Week 1 of expanding my technical toolkit with hands-on AI development.
+_"Customers don't buy features—they buy outcomes. AI is the most powerful tool we've ever had for delivering outcomes, but only when it's accessible and reliable."_
 
 _Profile last updated: November 2025_
